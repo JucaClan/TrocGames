@@ -8,5 +8,6 @@ namespace TROCGames.Classes.Banco
 {
     internal class ConexaoBanco
     {
+        ujtym
     }
 }
